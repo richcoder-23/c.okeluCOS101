@@ -5,7 +5,7 @@ fn main () {
 
 	//Compound Interest
 	let a = p *(1.0 + r/100.0)* n;
-	let cl = a - p;
-	println!("The Compound interest is {}", cl);
+	let ci = a - p;
+	println!("The Compound interest is {}", ci);
 
 }
