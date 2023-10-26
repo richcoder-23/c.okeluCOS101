@@ -17,6 +17,6 @@ fn main() {
 
     //remainder
     let remainder = 43.0 % 5.0; 
-    println!("The remainder of 43 and 5 = {}", remainder)
+    println!("The remainder of 43 and 5 = {}", remainder);
 
 }
