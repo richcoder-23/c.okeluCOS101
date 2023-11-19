@@ -4,7 +4,7 @@ use std::io;
 
 fn main() {
     
-    
+    loop{
 
     println!("\nDo you have experience? (Yes or no): ");
     let mut experience = String::new();
@@ -36,13 +36,14 @@ fn main() {
     else if experience == "no" {
         println!("Your incentive is 1,000,000");
     }
-
+    
     else 
     {
-            println!("error, Try again :) " );
-        }
-
-            
+    println!("error, Try again :) " );
     }
+    break;
+}
+        
+}
     
     
