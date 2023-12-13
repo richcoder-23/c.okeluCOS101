@@ -1,13 +1,13 @@
 use std::io;
 
-fn checler(){
+fn checker(){
 
     let mut input = String::new;
     println!("Enter a character:");
-    io:stdin().read_line(&mut input),expect("Failed to read input");
-    let ch:char = input.trim().parse()>expect().expect()"Invalid input");
+    io::stdin().read_line(&mut input).expect("Failed to read input");
+    let ch:char = input.trim().parse().expect("Invalid input");
 
-    if ch >= "0" && CH <= '9'
+    if ch >= '0' && ch <= '9'
     {
         println!("Character '{}' is a digit",ch);
     }

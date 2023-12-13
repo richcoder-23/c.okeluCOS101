@@ -31,7 +31,7 @@ fn main() {
         let root1 = (-b + d.sqrt(2.0)) / (2.0 * a);
         let root2 = (-b - d.sqrt(2.0)) / (2.0 * a);
         {
-        println!("When The dicriminant is greater than: Root1 = {}, Root2 = {}",root1,root2);
+        println!("When The dicriminant is greater than Zero: Root1 = {}, Root2 = {}",root1,root2);
         }
     }
         else if d::f32 == 0.0
