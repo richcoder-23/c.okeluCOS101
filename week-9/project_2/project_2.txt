@@ -1,0 +1,27 @@
+Welcome to PAU SIMS portal!
+The information below displays information of several students.
+1)Oluchi Mordi
+Matric no.:ACC10211111
+Department:Accounting
+Level:300 
+
+2)Adams Aliyu  
+Matric no.:ECO10110101
+Department:Economics
+Level:100 
+
+3)Shania Bolade
+Matric no.:CSC10328828
+Department:Computer science
+Level:200 
+
+4)Adekunle Gold
+Matric no.:EEE11020202
+Department:Electrical eng.
+Level:200 
+
+5)Blanca Edemoh
+Matric no.:MEE10202001
+Department:Mechanical eng.
+Level:100 
+
